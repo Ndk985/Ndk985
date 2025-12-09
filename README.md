@@ -102,16 +102,6 @@
 
 <div align="center">
 
-<!-- GitHub Stats with proper alignment -->
-<a href="https://github.com/Ndk985">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ndk985&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Ndk985">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndk985&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
-
-<br>
-
 <!-- Activity Graph -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ndk985&theme=github_dark" alt="Activity Graph" width="100%" />
 
