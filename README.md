@@ -65,13 +65,13 @@
 
 ## 💼 Ключевые проекты
 
-### **🎯 Система бронирования мест в кафе** 
-*FastAPI, PostgreSQL, Celery, RabbitMQ, Redis, Docker, JWT*
-> Асинхронное backend-приложение с ролевой моделью (User/Manager/Admin), управлением кафе и столами, email/Telegram уведомлениями, фоновыми задачами и кешированием. Полная инфраструктура на Docker Compose.
-
 ### **🍽️ Foodgram — "Продуктовый помощник"** 
 *Django/DRF, React, PostgreSQL, Docker, Nginx*
 > Full-stack сервис с элементами соцсети: рецепты с фото, избранное, подписки на авторов, список покупок. Контейнеризованное приложение с разделением backend и frontend.
+
+### **🎯 Система бронирования мест в кафе** 
+*FastAPI, PostgreSQL, Celery, RabbitMQ, Redis, Docker, JWT*
+> Асинхронное backend-приложение с ролевой моделью (User/Manager/Admin), управлением кафе и столами, email/Telegram уведомлениями, фоновыми задачами и кешированием. Полная инфраструктура на Docker Compose.
 
 ### **⭐ YaMDb API — агрегатор отзывов**
 *Django REST Framework, JWT, PostgreSQL/SQLite*
